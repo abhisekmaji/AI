@@ -3,4 +3,4 @@
 ## Pacman Game
 
 * #### ass1: Search Algorithms
-* #### ass2: 
+* #### ass2: Multi-Agent Search
